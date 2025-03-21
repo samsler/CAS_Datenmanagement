@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://samsler.github.io/CAS_Datenmanagement/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in samsler/CAS_Datenmanagement project"
+        ]
+    },
+    "items": []
+}
