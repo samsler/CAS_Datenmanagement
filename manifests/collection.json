@@ -1,0 +1,13 @@
+{
+  "id" : "https://samsler.github.io/CAS_Datenmanagement/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in samsler/CAS_Datenmanagement project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://samsler.github.io/CAS_Datenmanagement/manifests/manifest.json",
+    "label" : "3. Send-Schreiben der Königin Elisabeth an die XIII. Orte loblicher Eidgnossschafft, den 18. Heumonat 1590"
+  } ]
+}
